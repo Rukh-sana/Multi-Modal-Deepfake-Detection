@@ -146,6 +146,3 @@ If you use **LIPINC-V2** or **LipSyncTIMIT**, please cite:
 
 </details>
 ```
-
-
-Do you also want me to **add GitHub Actions CI workflow** (for auto testing, linting, badges) so it looks like a polished open-source repo?
